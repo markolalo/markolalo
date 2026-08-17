@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @markolalo
-- 👀 I’m interested in Data analysis/ Data Science/ Machine learning and AI
-- 🌱 I’m currently learning Data Analysis with Python libraries
+- 👀 I’m interested in Data analysis/ Data Science/ Machine learning Agentic Coding and AI
+- 🌱 I’m currently working on Data Analysis Projects with Python libraries and working on local agentic coding
 - 💞️ I’m looking to collaborate on any Data Analysis project
 - 📫 How to reach me markolalo@hotmail.com/ +254722932951
 
